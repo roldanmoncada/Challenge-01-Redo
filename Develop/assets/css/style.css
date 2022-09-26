@@ -25,6 +25,7 @@ body {
   color: #d9dcd6;
 }
 
+/*Changed div to nav in these header classes since I changed the HTML to semantic elements.*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
