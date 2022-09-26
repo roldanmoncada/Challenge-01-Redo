@@ -32,4 +32,4 @@ THEN I find a concise, descriptive title
 ![image](https://user-images.githubusercontent.com/112277445/192173004-35a86509-76d1-49f3-a532-a6840aa013a6.png)
 
 ### <ins>**Link to the deployed application:**</ins>
-Placeholder text
+https://roldanmoncada.github.io/Challenge-01-Redo/ 
